@@ -1,0 +1,27 @@
+ <div class="col-sm-6 col-lg-4 video"><iframe width="300" height="255" src="https://www.youtube.com/embed/XDKZu9kuEn8?si=GYYCQp5mBeiDm581" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p class="cimek">01.Bevezetés</p>
+    </div>
+    <div class="col-sm-6 col-lg-4 video"><iframe width="300" height="255" src="https://www.youtube.com/embed/_DpBYNQwQmU?si=njLnh5ZIitjC5oSB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p class="cimek">02.Verziókezelő fajták</p>
+    </div>
+    <div class="col-sm-6 col-lg-4 video"><iframe width="300" height="255" src="https://www.youtube.com/embed/nOmw00Yh_to?si=rCJZt0Yll8XSwtQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p class="cimek">03.Git Init</p>
+    </div>
+    <div class="col-sm-6 col-lg-4 video"><iframe width="300" height="255" src="https://www.youtube.com/embed/KqdZ1B8sS8k?si=BsAi9xW-mhZf0_WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p class="cimek">04.A színpad</p>
+    </div>
+    <div class="col-sm-6 col-lg-4 video"><iframe width="300" height="255" src="https://www.youtube.com/embed/X7rC62r9sGY?si=97U4wbmmbjs3S-hx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p class="cimek">05.Távoli Repository</p>
+    </div>
+    <div class="col-sm-6 col-lg-4 video"><iframe width="300" height="255" src="https://www.youtube.com/embed/4NsHUDrD2ek?si=ri8c-46vUpw6dUre" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p class="cimek">06.Kapcsolódási módok</p>
+    </div>
+    <div class="col-sm-6 col-lg-4 video"><iframe width="300" height="255" src="https://www.youtube.com/embed/CCZ0Em1Vmdk?si=oIcPdRfwSr37oHd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p class="cimek">07.Diff, reset, checkout - fájl kezelés</p>
+    </div>
+    <div class="col-sm-6 col-lg-4 video"><iframe width="300" height="255" src="https://www.youtube.com/embed/JXnep31gM4I?si=lp3KPpB18oVZ_aIS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p class="cimek">08. Branchek</p>
+    </div>
+    <div class="col-sm-6 col-lg-4 video"><iframe width="300" height="255" src="https://www.youtube.com/embed/Qe9Vu98MEWE?si=RdRU7eL9GUsYOuUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <p class="cimek">09. Összefoglalás</p>
+    </div>
