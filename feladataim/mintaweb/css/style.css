@@ -1,0 +1,24 @@
+.info 
+    {
+        background-color: rgb(250,250,210);
+        border: solid 2px;
+        color: rgb(105,105,105);
+        border-radius: 10px;
+    }
+a
+{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+a:hover
+{
+    font-style: italic;
+    color: red;
+}
+p
+{
+    text-align: center;
+    text-align: justify;
+}
